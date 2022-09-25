@@ -9,6 +9,10 @@ export default function SlugPage({ page }) {
       <Head>
         <title>Headless WP Next Starter</title>
         <link rel="icon" href="favicon.ico"></link>
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+        />
       </Head>
 
       <main>
